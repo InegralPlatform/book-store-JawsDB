@@ -1,0 +1,27 @@
+# directories
+node_modules/
+.sass-cache/
+log/
+vendor/
+local-site/
+
+# build outputs
+build/
+assets/css/
+assets/js/
+*.log
+*.map
+
+# build tools lock
+composer.lock
+package-lock.json
+yarn.lock
+
+# IDE's
+.project/
+.vscode/
+.idea/
+
+# other
+Thumbs.db
+*.DS_Store

@@ -1,0 +1,17 @@
+// Global style for animate.css
+
+.animated {
+	animation-duration: 1.25s;
+
+	&.animated-slow {
+		animation-duration: 2s;
+	}
+
+	&.animated-fast {
+		animation-duration: .75s;
+	}
+}
+
+.animated.infinite {
+	animation-iteration-count: infinite;
+}
