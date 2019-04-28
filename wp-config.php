@@ -1,10 +1,4 @@
 <?php
-
-// BEGIN iThemes Security - Do not modify or remove this line
-// iThemes Security Config Details: 2
-define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
-// END iThemes Security - Do not modify or remove this line
-
 /**
  * The base configuration for WordPress
  *
@@ -26,18 +20,16 @@ define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settin
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('WP_CACHE', true);
-define( 'WPCACHEHOME', 'C:\xampp\htdocs\DO\wordpress\wp-content\plugins\wp-super-cache/' );
-define( 'DB_NAME', 'wordpress-en' );
+define( 'DB_NAME', 'rgrqlwwoxwsglmiv' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'q3a0vr1q5yulgjqf' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'j5uvpnawf4hy6v35' );
 
 /** MySQL hostname */
-define( 'DB_HOST', '127.0.0.1' );
+define( 'DB_HOST', 'wm63be5w8m7gs25a.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
